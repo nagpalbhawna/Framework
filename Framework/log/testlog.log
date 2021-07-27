@@ -1,0 +1,34 @@
+2021-07-27 14:17:51 INFO  BaseClass:55 - Setting up Reports and Test Started
+2021-07-27 14:17:53 INFO  BaseClass:63 - Setting done- Test can be run now
+2021-07-27 14:17:53 INFO  BaseClass:37 - Trying to start Browser and get application running
+2021-07-27 14:18:17 INFO  BaseClass:39 - Application launched successfully
+2021-07-27 14:18:24 INFO  BaseClass:75 - TestCase is Passed
+2021-07-27 14:18:25 INFO  BaseClass:44 - Test is about to end
+2021-07-27 14:18:26 INFO  BaseClass:48 - Driver closed and ending test
+2021-07-27 14:19:45 INFO  BaseClass:56 - ******************************************
+2021-07-27 14:19:45 INFO  BaseClass:57 - Setting up Reports and Test Started
+2021-07-27 14:19:46 INFO  BaseClass:65 - Setting done- Test can be run now
+2021-07-27 14:19:46 INFO  BaseClass:37 - Trying to start Browser and get application running
+2021-07-27 14:20:03 INFO  BaseClass:39 - Application launched successfully
+2021-07-27 14:20:11 INFO  BaseClass:77 - TestCase is Passed
+2021-07-27 14:20:12 INFO  BaseClass:44 - Test is about to end
+2021-07-27 14:20:13 INFO  BaseClass:48 - Driver closed and ending test
+2021-07-27 14:20:13 INFO  BaseClass:49 - ******************************************
+2021-07-27 14:21:31 INFO  BaseClass:56 - ******************************************
+2021-07-27 14:21:31 INFO  BaseClass:57 - Setting up Reports and Test Started
+2021-07-27 14:21:32 INFO  BaseClass:65 - Setting done- Test can be run now
+2021-07-27 14:21:32 INFO  BaseClass:37 - Trying to start Browser and get application running
+2021-07-27 14:21:46 INFO  BaseClass:39 - Application launched successfully
+2021-07-27 14:21:51 INFO  BaseClass:77 - TestCase is Passed
+2021-07-27 14:21:52 INFO  BaseClass:44 - Test is about to end
+2021-07-27 14:21:53 INFO  BaseClass:48 - Driver closed and ending test
+2021-07-27 14:21:53 INFO  BaseClass:49 - ******************************************
+2021-07-27 14:22:17 INFO  BaseClass:56 - ******************************************
+2021-07-27 14:22:17 INFO  BaseClass:57 - Setting up Reports and Test Started
+2021-07-27 14:22:18 INFO  BaseClass:65 - Setting done- Test can be run now
+2021-07-27 14:22:18 INFO  BaseClass:37 - Trying to start Browser and get application running
+2021-07-27 14:22:31 INFO  BaseClass:39 - Application launched successfully
+2021-07-27 14:22:38 INFO  BaseClass:77 - TestCase is Passed
+2021-07-27 14:22:38 INFO  BaseClass:44 - Test is about to end
+2021-07-27 14:22:39 INFO  BaseClass:48 - Driver closed and ending test
+2021-07-27 14:22:39 INFO  BaseClass:49 - ******************************************
