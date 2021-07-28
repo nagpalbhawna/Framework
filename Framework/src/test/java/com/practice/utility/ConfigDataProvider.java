@@ -10,9 +10,10 @@ public class ConfigDataProvider {
 	
 	public ConfigDataProvider() {
 		
-		File src=new File("./Configuration/Config.properties");
+		
 		FileInputStream fis;
 		try {
+			File src=new File("./Configuration/Config.properties");
 			fis = new FileInputStream(src);
 			pro=new Properties();
 			pro.load(fis);

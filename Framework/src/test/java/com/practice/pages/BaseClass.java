@@ -12,6 +12,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -34,12 +35,16 @@ public class BaseClass {
 	static {
 		System.setProperty("current.date.time", Helper.getCurrentDateTime());
 	}
-	 
+	
+	@Parameters("browser")
 	@BeforeClass
-	public void setUp() {		
-		
+	public void setUp(String browser) {		
+		txtLogging.info("Running Test Cases on browser "+browser);
 		txtLogging.info("Trying to start Browser and get application running");
-		driver=BrowserFactory.startApplication(driver, config.getBrowser(), config.getStagingURL());
+		
+	//	driver=BrowserFactory.startApplication(driver, config.getBrowser(), config.getStagingURL());
+		
+		driver=BrowserFactory.startApplication(driver, browser, config.getStagingURL());
 		txtLogging.info("Application launched successfully");
 	}
 	
